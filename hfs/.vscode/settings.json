@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "hfsplus.h": "c",
+        "stdlib.h": "c",
+        "filevault.h": "c",
+        "hfslib.h": "c",
+        "hfscompress.h": "c",
+        "stat.h": "c"
+    }
+}

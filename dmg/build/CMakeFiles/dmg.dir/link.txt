@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libdmg.a CMakeFiles/dmg.dir/checksum.o CMakeFiles/dmg.dir/dmgfile.o CMakeFiles/dmg.dir/dmglib.o CMakeFiles/dmg.dir/filevault.o CMakeFiles/dmg.dir/io.o CMakeFiles/dmg.dir/partition.o CMakeFiles/dmg.dir/resources.o CMakeFiles/dmg.dir/udif.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libdmg.a

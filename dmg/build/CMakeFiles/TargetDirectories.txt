@@ -1,0 +1,8 @@
+/Users/rymu74/Desktop/xpwn/dmg/build/CMakeFiles/dmg.dir
+/Users/rymu74/Desktop/xpwn/dmg/build/CMakeFiles/dmg-bin.dir
+/Users/rymu74/Desktop/xpwn/dmg/build/CMakeFiles/edit_cache.dir
+/Users/rymu74/Desktop/xpwn/dmg/build/CMakeFiles/rebuild_cache.dir
+/Users/rymu74/Desktop/xpwn/dmg/build/CMakeFiles/list_install_components.dir
+/Users/rymu74/Desktop/xpwn/dmg/build/CMakeFiles/install.dir
+/Users/rymu74/Desktop/xpwn/dmg/build/CMakeFiles/install/local.dir
+/Users/rymu74/Desktop/xpwn/dmg/build/CMakeFiles/install/strip.dir

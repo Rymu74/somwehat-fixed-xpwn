@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libhfs.a CMakeFiles/hfs.dir/btree.o CMakeFiles/hfs.dir/catalog.o CMakeFiles/hfs.dir/extents.o CMakeFiles/hfs.dir/xattr.o CMakeFiles/hfs.dir/fastunicodecompare.o CMakeFiles/hfs.dir/flatfile.o CMakeFiles/hfs.dir/hfslib.o CMakeFiles/hfs.dir/rawfile.o CMakeFiles/hfs.dir/utility.o CMakeFiles/hfs.dir/volume.o CMakeFiles/hfs.dir/hfscompress.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libhfs.a
